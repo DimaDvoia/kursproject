@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647644470620",
+    "project_id": "kursapp-103ee",
+    "storage_bucket": "kursapp-103ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647644470620:android:2d1ba79608d600ebce3599",
+        "android_client_info": {
+          "package_name": "com.example.kurs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnVGyPc9f0YV-qVEyihOBA7xXmeCUEuto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
